@@ -9,7 +9,7 @@ export default function Author() {
           src={'/avatar.png'}
           height={100}
           width={100}
-          alt="Image of the Author, Ryan Carmody"
+          alt="Image of the Author, Ahmad S"
           className="rounded-full"
         ></Image>
       </div>
