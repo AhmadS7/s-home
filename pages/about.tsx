@@ -11,38 +11,45 @@ export default function About() {
           /about
         </h1>
         <p className="text-black dark:text-white mb-4">
-          My name is Ryan Carmody and I am from{' '}
+          My name is Ahmad Shah and I am from{' '}
           <a
-            href="https://en.wikipedia.org/wiki/Adelaide"
+            href="https://en.wikipedia.org/wiki/Dhaka"
             target="blank"
             rel="noopener noreferrer"
           >
-            Adelaide, South Australia
+            Dhaka, Bangladesh
           </a>
           .
         </p>
         <p className="text-black dark:text-white mb-4">
-          For about 2 years, I worked full-time for a local company as a web
+          {/* For about 2 years, I worked full-time for a local company as a web
           developer, mainly using Angular 2+. I love coding but hate working in
           an office for 40 hours a week. I was pretty unhappy, it felt like I
           was using up all of my problem-solving abilities and creativity at
-          work and my love for coding and creating was fading.
+          work and my love for coding and creating was fading. */}
+          I've been a full-time software developer for two years. I'm and
+          Experienced and passionate full stack software developer dedicated to
+          creating and maintaining exceptional web applications. Highly skilled
+          communicator driven to succeed at producing quality results in
+          individual and collaborative settings alike.
+          {/* Front-End Dev. React +
+          Next.js, Node.js + Express, Three.js, Vanilla JS, Tailwind CSS. DevOps */}
         </p>
         <p className="text-black dark:text-white mb-6">
-          In early 2022, I quit my job and took a job tutoring at my local
+          {/* In early 2022, I quit my job and took a job tutoring at my local
           university. I can now say, I seriously LOVE tutoring. I really enjoy
           building meaningful relationships with students and seeing them
           develop their coding skills. Also, since I started tutoring, I have
           really regained my passion for coding and creating things. I have
           started building things again and am learning new tech such as
-          next.js.
+          next.js. */}
         </p>
         <h2 className="text-black dark:text-white mb-4">Get in contact</h2>
         <ul>
           <li>
             {'>  '}
             <a
-              href="https://www.linkedin.com/in/ryanjcarmody/"
+              href="https://www.linkedin.com/in/ahmad-s/"
               target="blank"
               rel="noopener noreferrer"
             >
@@ -52,7 +59,7 @@ export default function About() {
           <li>
             {'>  '}
             <a
-              href="mailto:ryancarmody1@gmail.com"
+              href="mailto:chromeshah@gmail.com"
               target="blank"
               rel="noopener noreferrer"
             >

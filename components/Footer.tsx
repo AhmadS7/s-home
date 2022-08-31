@@ -30,16 +30,14 @@ export default function Footer() {
           </Link>
         </div>
         <div className="flex flex-col space-y-4">
-          <ExternalLink href="https://twitter.com/ryancarmody_dev">
-            Twitter
-          </ExternalLink>
-          <ExternalLink href="https://www.linkedin.com/in/ryanjcarmody/">
+          <ExternalLink href="https://twitter.com/3aUw01">Twitter</ExternalLink>
+          <ExternalLink href="https://www.linkedin.com/in/ahmad-s/">
             LinkedIn
           </ExternalLink>
-          <ExternalLink href="https://github.com/rjc23">GitHub</ExternalLink>
-          <ExternalLink href="https://www.youtube.com/channel/UCGTXoUNS6EeBpW-wta7phqQ">
+          <ExternalLink href="https://github.com/AhmadS7">GitHub</ExternalLink>
+          {/* <ExternalLink href="https://www.youtube.com/channel/UCGTXoUNS6EeBpW-wta7phqQ">
             YouTube
-          </ExternalLink>
+          </ExternalLink> */}
         </div>
         <div className="flex flex-col space-y-4">
           <Link href="/blog/code">
